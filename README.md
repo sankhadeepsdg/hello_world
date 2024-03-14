@@ -1,2 +1,2 @@
-Hi Parthib
-This is a test file
+Hi Rima
+Welcome to GitHub
